@@ -1,0 +1,52 @@
+#headbar { 
+	background: lightblue;
+	clear: both;
+}
+
+#company {
+	font-size: 1.8em;
+	color: black;
+	font-weight: bold;
+}
+
+#collapsable-nav {
+	text-align: center;
+	background: lightgreen;
+}
+
+#ourmenu {
+	text-align: center;
+	margin: auto;
+	margin-top: 80px;
+	margin-bottom:
+	color: red;
+	font-size: 1.7em;
+}
+
+#chicken {
+	background: lightgray;
+	margin-top: 20px;
+}
+
+#thechickenhead {
+	font-size: 1.4em;
+}
+
+#sushi {
+	clear: both;
+}
+
+
+h3 {
+	text-align: center;
+}
+
+button {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.navbar-fixed-top {
+	position: relative;
+}
